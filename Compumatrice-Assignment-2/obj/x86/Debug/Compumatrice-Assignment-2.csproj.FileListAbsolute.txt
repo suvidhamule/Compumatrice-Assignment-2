@@ -1,0 +1,7 @@
+D:\Mission Job\Compumatrice-Assignment-2\Compumatrice-Assignment-2\bin\Debug\Compumatrice-Assignment-2.exe
+D:\Mission Job\Compumatrice-Assignment-2\Compumatrice-Assignment-2\bin\Debug\Compumatrice-Assignment-2.pdb
+D:\Mission Job\Compumatrice-Assignment-2\Compumatrice-Assignment-2\obj\x86\Debug\Compumatrice-Assignment-2.exe
+D:\Mission Job\Compumatrice-Assignment-2\Compumatrice-Assignment-2\obj\x86\Debug\Compumatrice-Assignment-2.pdb
+D:\Mission Job\Compumatrice-Assignment-2\Compumatrice-Assignment-2\obj\x86\Debug\Compumatrice-Assignment-2.csprojResolveAssemblyReference.cache
+D:\MissionJob\Compumatrice-Assignment-2\Compumatrice-Assignment-2\obj\x86\Debug\Compumatrice-Assignment-2.exe
+D:\MissionJob\Compumatrice-Assignment-2\Compumatrice-Assignment-2\obj\x86\Debug\Compumatrice-Assignment-2.pdb
